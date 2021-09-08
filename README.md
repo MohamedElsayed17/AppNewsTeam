@@ -1,6 +1,6 @@
 # news_app_project
 
-A new Flutter application.
+It's an app for getting hte latest news in Egypt.
 
 ## Getting Started
 
